@@ -1,4 +1,4 @@
-import abc  |#importar abstract method
+import abc  #importar abstract method
 from unittest import TestCase, main #import de testes unitarios 
 
 
